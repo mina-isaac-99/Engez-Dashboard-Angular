@@ -3,6 +3,8 @@
 
 ## Engez Admin Panel 
 
+Engez is a web application that connects users to workers to get their works done. Engez allows clients to hire and work with craftsmen’s freelancers through the web application. The client posts a description of their job and his location. The client may invite specific freelancers to apply for their jobs, or else post the job for any freelancer who is interested to apply. Once the client has chosen who they want to complete the job, they hire that freelancer by sending a contract with set pay rate, and a deadline for the work to be completed. The Engez platform includes a real-time chat feature that either clients or freelancers can use to message each other’s.
+
 **Languages and Technologies:**  
 
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg"></code>
