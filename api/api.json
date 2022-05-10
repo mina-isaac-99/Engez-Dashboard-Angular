@@ -1,0 +1,141 @@
+{
+  "job_categories": [
+    {
+      "id": 1,
+      "name": "Plumbing"
+    },
+    {
+      "id": 2,
+      "name": "Electricity"
+    },
+    {
+      "id": 3,
+      "name": "Carpentry"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "mina isaac",
+      "email": "info@mina-isaac.com",
+      "password": "1234567####",
+      "mobile": "01007979368",
+      "address": "Minya",
+      "role": 1,
+      "verified": 0,
+      "img": "assets/images/team/mina1.jpg",
+      "id_img": "assets/id.jpg",
+      "cat_id": 1,
+      "record_deleted": 0
+    },
+    {
+      "id": 2,
+      "name": "mohammed saber",
+      "email": "saber@saber.com",
+      "password": "1234567@@",
+      "mobile": "01134322334",
+      "address": "Assuit",
+      "role": 1,
+      "verified": 1,
+      "img": "assets/images/team/saber.jpg",
+      "id_img": "assets/id2.jpg",
+      "cat_id": 2,
+      "record_deleted": 0
+    },
+    {
+      "id": 3,
+      "name": "mina ezzat",
+      "email": "minaezzat@mina.com",
+      "password": "1234567@@",
+      "mobile": "01004322334",
+      "address": "Minya",
+      "role": 2,
+      "verified": null,
+      "img": "assets/images/team/mina2.jpg",
+      "id_img": null,
+      "cat_id": null,
+      "record_deleted": 0
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "small job",
+      "desc": "small job desc",
+      "cat_id":1,
+      "user_id": 1,
+      "img": "assets/img.jpg",
+      "view_count": 3,
+      "duration": "15 Hours",
+      "balance": 2000,
+      "address": "Minya",
+      "status": 1,
+      "record_deleted": 0
+    },
+    {
+      "id": 2,
+      "title": "med job",
+      "desc": "med job desc",
+      "cat_id":1,
+      "user_id": 2,
+      "img": "assets/img.jpg",
+      "view_count": 0,
+      "duration": "12 Hours",
+      "balance": 1900,
+      "address": "Minya",
+      "status": 0,
+      "record_deleted": 0
+    }
+  ],
+  "offers": [
+    {
+      "id": 1,
+      "content": "This is offer for your job 1",
+      "job_id": 3,
+      "user_id": 1,
+      "status":0,
+      "price": 2334,
+      "record_deleted": 0
+    },
+    {
+      "id": 2,
+      "content": "This is offer for your job 2",
+      "job_id": 3,
+      "user_id": 2,
+      "status":0,
+      "price": 3000,
+      "record_deleted": 0
+    }
+  ],
+  "contracts": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "freelancer_id": 2,
+      "title": "Title",
+      "desc": "Desc",
+      "price": 1233
+    }
+  ],
+  "messages": [
+    {
+      "id":1 ,
+      "user_id":1 ,
+      "subject":"Sssssssssssssss" ,
+      "message":"ddiwijdijwididijdijwdidw"
+    }
+    ,
+    {
+      "id":2 ,
+      "user_id":2 ,
+      "subject":"aaaaaaaaaaaaaaaaaaaaaaa" ,
+      "message":"dddee4tggggggggggggffdddddddd"
+    },
+    {
+      "id":3 ,
+      "user_id":1 ,
+      "subject":"ttttttttttttttttttttttttttttt" ,
+      "message":"vdsvsdvdvssssssssssssss"
+    }
+  ]
+}
