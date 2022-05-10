@@ -9,7 +9,7 @@
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg"></code>
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"></code>
 <code><img height="23" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg"></code>
-<code><img height="26" src="https://cdn.cdnlogo.com/logos/m/47/mysql.svg"></code>
+
 
 **ScreenShoots:**  
 <br>
