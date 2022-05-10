@@ -1,7 +1,7 @@
-<img src="https://svgur.com/i/h0V.svg" height='40px'> <p style="font-size:30px">Engez Dashboard<p>
+<img src="https://svgur.com/i/h0V.svg" height='40px'>
 
 
-## Engez Admin Panel 
+## Engez Admin Panel Dashboard
 
 Engez is a web application that connects users to workers to get their works done. Engez allows clients to hire and work with craftsmen’s freelancers through the web application. The client posts a description of their job and his location. The client may invite specific freelancers to apply for their jobs, or else post the job for any freelancer who is interested to apply. Once the client has chosen who they want to complete the job, they hire that freelancer by sending a contract with set pay rate, and a deadline for the work to be completed. The Engez platform includes a real-time chat feature that either clients or freelancers can use to message each other’s.
 
