@@ -1,27 +1,26 @@
 <img src="https://svgur.com/i/h0V.svg" height='40px'> Engez Dashboard
 
 
-
 ## Engez Admin Panel 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+**Languages and Technologies:**  
 
-## Code scaffolding
+<code><img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg"></code>
+<code><img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg"></code>
+<code><img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"></code>
+<code><img height="23" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg"></code>
+<code><img height="26" src="https://cdn.cdnlogo.com/logos/m/47/mysql.svg"></code>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+**ScreenShoots:**  
+<br>
+<img src="https://i.imgur.com/iFCOXWx.jpg" width="300px"> <br><br>
+<img src="https://i.imgur.com/O7iNS72.jpg" width="300px"> <br><br>
+<img src="https://i.imgur.com/nfJ0ztL.jpg" width="300px"> <br><br>
+<img src="https://i.imgur.com/3Yrsk1Z.jpg" width="300px"> <br><br>
+<img src="https://i.imgur.com/Xh5FrSm.jpg" width="300px"> <br><br>
+<img src="https://i.imgur.com/hmyyHVf.jpg" width="300px"> <br><br>
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+**How To Run Application:**  
+<br>
+1- Run `ng serve` command
+2- Navigate to `http://localhost:4200/
