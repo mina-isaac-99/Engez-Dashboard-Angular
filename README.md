@@ -1,4 +1,4 @@
-<img src="https://svgur.com/i/h0V.svg" height='40px'> Engez Dashboard
+<img src="https://svgur.com/i/h0V.svg" height='40px'> <p style="font-size:30px">Engez Dashboard<p>
 
 
 ## Engez Admin Panel 
