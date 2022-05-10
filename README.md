@@ -22,5 +22,5 @@
 
 **How To Run Application:**  
 <br>
-1- Run `ng serve` command
+1- Run `ng serve` command <br>
 2- Navigate to `http://localhost:4200/
