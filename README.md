@@ -1,6 +1,6 @@
 # Engez Dashboard
 
-<img src="https://svgur.com/i/h0V.svg" height='50px'> EnGez
+<img src="https://svgur.com/i/h0V.svg" height='20px'> EnGez
 
 ## Development server
 
