@@ -1,6 +1,6 @@
-# NgAdminx
+# Engez Dashboard
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+<img src="https://i.imgur.com/kVbCOoH.png" height='50px'>
 
 ## Development server
 
