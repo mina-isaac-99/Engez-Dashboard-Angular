@@ -24,5 +24,6 @@ Engez is a web application that connects users to workers to get their works don
 
 **How To Run Application:**  
 <br>
-1- Run `ng serve` command <br>
-2- Navigate to `http://localhost:4200/
+1- Run `npm install` command <br>
+2- Run `ng serve` command <br>
+3- Navigate to `http://localhost:4200/
